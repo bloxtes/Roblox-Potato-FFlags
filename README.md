@@ -22,7 +22,7 @@ Forces Direct3D10 (better performance on older PCs)
 }
 ```
 
-Forces Vulkan (can crash)
+Forces fly (can crash)
 
 ```json
 {
